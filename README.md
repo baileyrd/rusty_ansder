@@ -1,5 +1,10 @@
 # rusty_ansder
 
+> **This repository has been merged into [rusty-mill/rusty_mill](https://github.com/Rusty-Mill/rusty_mill)**,
+> at [`crates/rusty_ansder`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_ansder),
+> with full commit history preserved via `git subtree`. Further development happens there;
+> this standalone repository is no longer maintained.
+
 [![CI](https://github.com/baileyrd/rusty_ansder/actions/workflows/ci.yml/badge.svg)](https://github.com/baileyrd/rusty_ansder/actions/workflows/ci.yml)
 
 Sovereign AI Retrieval-Augmented Generation (RAG) & Question Answering Engine and ASN.1 DER Parser for **Rusty Mill**.
